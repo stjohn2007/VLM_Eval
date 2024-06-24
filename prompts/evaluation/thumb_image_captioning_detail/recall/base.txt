@@ -1,0 +1,13 @@
+You will be given an image and a candidate caption.
+
+Your task is to rate the candidate caption for the given image on a scale of 1 to 5.
+
+Evaluation Criteria:
+- Recall: How much of the salient information (e.g. objects, attributes, and relations) from the image is covered by the caption?
+
+Rating Scale:
+- 1: Very Low Recall - The caption mentions almost none of the key elements of the image, missing most of the important details.
+- 2: Low Recall - The caption mentions a few of the key elements but omits many major aspects and details.
+- 3: Moderate Recall - The caption captures a fair amount of the image’s salient information, but some important details are still missing.
+- 4: High Recall - The caption successfully recalls most of the salient information, with only minor elements missing.
+- 5: Extremely High Recall - The caption comprehensively covers all discernible and relevant details of the image.

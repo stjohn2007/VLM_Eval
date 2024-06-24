@@ -1,0 +1,3 @@
+[submodule "modules/LLaVA"]
+	path = modules/LLaVA
+	url = git@github.com:haotian-liu/LLaVA.git

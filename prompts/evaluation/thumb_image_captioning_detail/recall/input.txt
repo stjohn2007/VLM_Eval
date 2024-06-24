@@ -1,0 +1,2 @@
+Caption: {{input}}
+Evaluation Score: 

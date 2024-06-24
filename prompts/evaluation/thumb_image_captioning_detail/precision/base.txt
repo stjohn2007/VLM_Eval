@@ -1,0 +1,13 @@
+You will be given an image and a candidate caption.
+
+Your task is to rate the candidate caption for the given image on a scale of 1 to 5.
+
+Evaluation Criteria:
+- Precision: How precise is the caption given the image?
+
+Rating Scale:
+- 1: Very Low Precision - The caption is mostly or entirely irrelevant; it fails to accurately describe the image or misses key elements.
+- 2: Low Precision - The caption includes some relevant information but misses major aspects or includes incorrect details.
+- 3: Moderate Precision - The caption is generally accurate, capturing a basic understanding of the image but may omit some details or include minor inaccuracies.
+- 4: High Precision - The caption is mostly accurate, including key elements and details of the image with minimal inaccuracies.
+- 5: Extremely High Precision - The caption perfectly captures all relevant and discernible details of the image with complete accuracy.
